@@ -18,7 +18,7 @@ aluno = {name: "João", age: 21, curso: "ADS"}
 puts aluno
 
 exercicio5
-aluno['semestre'] = 2
+aluno[:semestre] = 2
 puts aluno
 
 exercicio6
